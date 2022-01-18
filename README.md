@@ -1,4 +1,4 @@
-# Simple Database Management System Using Bash Shell Scription
+# Simple Database Management System Using Bash Shell Scripting
 
 This project was created during my ITI 3 months internship as a project for bash shell scripting course
 
